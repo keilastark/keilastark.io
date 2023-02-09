@@ -15,7 +15,7 @@ http://keilastark.github.io/files/k_stark_cv.pdf
 
 Awards
 ======
-aja Rosenbluth Award for Women in Biological Sciences, UBC
+Raja Rosenbluth Award for Women in Biological Sciences, UBC
 Hugh Hamilton Memorial Scholarship, Nature Vancouver
 NSERC Michael Smith Foreign Study Supplement                                                                                                   
 NSERC Alexander Graham Bell Canada Graduate Scholarships - Doctoral Award
