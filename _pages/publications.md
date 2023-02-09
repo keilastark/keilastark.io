@@ -39,3 +39,4 @@ Stark, K. A. 2019. SDG 10: Reduced Inequalities. In: [Where Canada Stands Vol II
 
 Stark, K. A. 2018. SDG 15: Life on Land. In: [Where Canada Stands Vol II: A Sustainable Development Goals Shadow Report.](https://www.bccic.ca/wp-content/uploads/2018/07/bccic-2018-report-preview-pages.pdf) British Columbia Council for International Cooperation: 82-94 [Report for federal SDG strategy]. 
 
+*all authors contributed equally
