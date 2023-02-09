@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ACADEMIC PUBLICATIONS 
-O’Connor, M.I., Bernhardt, J.R., Stark, K., Usinowicz, K., Whalen, M. 2022. Experimental Evidence for How Biodiversity Affects Ecosystem Functioning [Book chapter]. In: The Ecological and Societal Consequences of Biodiversity Loss, 97-118. John Wiley & Sons, Inc. 
+O’Connor, M.I., Bernhardt, J.R., Stark, K., Usinowicz, K., Whalen, M. 2022. [Experimental Evidence for How Biodiversity Affects Ecosystem Functioning](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119902911.ch5) [Book chapter]. In: The Ecological and Societal Consequences of Biodiversity Loss, 97-118. John Wiley & Sons, Inc. 
  
-Lewis, A., Stark, K., O’Connor M.I. 2022. Travelogues of two copepod species in Coastal waters of British Columbia. [In Press, Crustaceana]. 
+Lewis, A., Stark, K., O’Connor M.I. 2022. [Travelogues of two copepod species in Coastal waters of British Columbia](https://brill.com/view/journals/cr/95/3/article-p289_3.xml?language=en). Crustaceana 95(3). 
 
-Stark, K., Adams, V., Brown, C., Chauvenet, A., Davis, K., Game, E. T., Halpern, B. S., Lynham, J., Mappin, B., Selkoe, K., Watson, J. E. M., Possingham, H. P., Klein C. K. 2021. Importance of equitable cost sharing in the Convention on Biological Diversity's protected area agenda. Conservation Biology 13812.
+Stark, K., Adams, V., Brown, C., Chauvenet, A., Davis, K., Game, E. T., Halpern, B. S., Lynham, J., Mappin, B., Selkoe, K., Watson, J. E. M., Possingham, H. P., Klein C. K. 2021. [Importance of equitable cost sharing in the Convention on Biological Diversity's protected area agenda](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13812). Conservation Biology 13812.
 
 Stark, K.A., P.L. Thompson, J. Yakimishyn, L. Lee, E.M. Adamczyk, M. Hessing-Lewis, M.I. O’Connor. 2020. Beyond a single patch: local and regional processes explain diversity patterns in a seagrass epifaunal metacommunity. Marine Ecology Progress Series 655:91-106.
 Bayraktarov, E., Brisbane, S., Stewart-Sinclair, P.J., Van Herwaarden, A., Stark, K., Hagger, V., Smith, Carter S., Wilson, KA, Lovelock, C.E., Gillies, C., Steven, A. D. L., Saunders, M. I. 2020. Data from: Priorities and motivations of marine coastal restoration research, v4, Dryad, Dataset, https://doi.org/10.5061/dryad.zgmsbcc81
