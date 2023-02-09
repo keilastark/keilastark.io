@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-ACADEMIC JOURNAL ARTICLES
+Peer reviewed journal articles
+======
+
 O’Connor, M.I., Bernhardt, J.R., Stark, K., Usinowicz, K., Whalen, M. 2022. [Experimental Evidence for How Biodiversity Affects Ecosystem Functioning](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119902911.ch5) [Book chapter]. In: The Ecological and Societal Consequences of Biodiversity Loss, 97-118. John Wiley & Sons, Inc. 
  
 Lewis, A., Stark, K., O’Connor M.I. 2022. [Travelogues of two copepod species in Coastal waters of British Columbia](https://brill.com/view/journals/cr/95/3/article-p289_3.xml?language=en). Crustaceana 95(3). 
@@ -17,7 +19,8 @@ Stark, K.A., P.L. Thompson, J. Yakimishyn, L. Lee, E.M. Adamczyk, M. Hessing-Lew
 Bayraktarov, E., Brisbane, S., Stewart-Sinclair, P.J., Van Herwaarden, A., Stark, K., Hagger, V., Smith, Carter S., Wilson, KA, Lovelock, C.E., Gillies, C., Steven, A. D. L., Saunders, M. I. 2020. Data from: Priorities and motivations of marine coastal restoration research, v4, Dryad, Dataset, https://doi.org/10.5061/dryad.zgmsbcc81
 
 
-GREY LITERATURE REPORTS (selected)
+Policy reports
+======
 
 *Byfuglien, A., Bouliane, K., Chen, L., Fawkes, K., Guy, E., Hong, J., Kylstra, S., Luymes, E., Stark K., Tuccaro, K.
 2021. [Redirecting Fossil Fuel Subsidies in Canada: An Opportunity for Environmental Integrity, Social Equity, and Economic Prosperity.](https://www.bccic.ca/wp-content/uploads/2021/11/just-transition-bccic-final-1.pdf) BC Council for International Cooperation [Policy report for COP26].
